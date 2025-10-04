@@ -23,6 +23,9 @@ This assignment is done as a part of  **DS200: Research Methods** course require
     </li>
 </ul>
 
+- <a href="https://drive.google.com/file/d/1jkoynty9n0Z5q2R7LjJG5xIsByZ-FdpH/view?usp=sharing">Central Sector Schemes Dataset csv file</a>
+- <a href="https://drive.google.com/file/d/1jmVIpXPJ_XlEtB6ic4gi3z0nrA_xKHMY/view?usp=sharing">Details of the Capital Receipts Dataset csv file</a>
+
 ## Author
 **Surya Datta Sudhakar** ([GitHub](https://github.com/suryasud))
 
