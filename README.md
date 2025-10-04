@@ -24,4 +24,8 @@ This assignment is done as a part of  **DS200: Research Methods** course require
 </ul>
 
 ## Author
+**Surya Datta Sudhakar** ([GitHub](https://github.com/suryasud))
+
+## Inferences
+
 
