@@ -41,6 +41,9 @@ Analysis of Ministry Budget Allocations for Central Sector Schemes
 -----
 
 ### 1. Top 10 Schemes by Actual Revenue (2020-2021) (BAR PLOT)
+
+![alt text](./graphs/css_highest_revenue_min_BAR_PLOT.png)
+
 <strong> Key Points </strong> <br>
 - **Heavy Budget Concentration**: The top three ministries—Consumer Affairs (26.9%), Railways (17.5%), and Defence (17.0%)—command a staggering 61.4% of the total budget among the top 10. This indicates a massive concentration of funds in a few key areas.
 - **Significant Drop-off**: There is a sharp decline in budget allocation after the top three. The next tier, including Home Affairs (11.0%) and Road Transport (10.9%), receives a substantial but markedly smaller share.
@@ -58,6 +61,8 @@ While important, foundational social sectors like Agriculture, Rural Development
 
 ### 2. Lowest 10 Schemes by Actual Revenue (2020-2021) (BAR PLOT)
 
+![alt text](./graphs/css_lowest_revenue_min_BAR_PLOT.png)
+
 <strong>Key Points</strong> <br>
 - **Uneven Revenue–Capital Mix**: Most ministries, such as Panchayati Raj and Public Enterprises, exhibit much higher revenue expenditure than capital, showing a focus on administrative and operational costs rather than asset creation.
 - **Capital-Dominant Outliers**: In contrast, Ministry of Railways and Defence Services stand out with disproportionately high capital expenditure, highlighting their infrastructure-intensive nature.
@@ -71,6 +76,8 @@ While important, foundational social sectors like Agriculture, Rural Development
 -----
 
 ### 3. Correlation Between FY21 Capital Expenditure and FY22 Budget Projections (SCATTER PLOT)
+
+![alt text](./graphs/css_correlation_capital_SCATTER_PLOT.png)
 
 **Key Points** <br>
 - **Positive Correlation Trend**: Both revenue (red) and capital (blue) estimates for FY22 increase with higher FY21 capital expenditure, indicating that ministries with strong capital spending in FY21 received proportionally higher budget allocations the following year.
@@ -86,6 +93,8 @@ While important, foundational social sectors like Agriculture, Rural Development
 
 ### 4. Distribution of Scheme Budgets for Top 20 Ministries (FY 2022–23) (BOX PLOT)
 
+![alt text](./graphs/css_distribution_of_budget_BAR_PLOT.png)
+
 **Key Points** <br>
 - **High Variability Across Ministries**: The box plots show wide variation in scheme budgets across ministries — with **Road Transport & Highways**, **Agriculture & Farmers Welfare**, and **Defence Services** exhibiting particularly large ranges.
 - **Log-Scale Spread**: Budgets span an enormous scale — from fractions of a crore to nearly **₹10⁵ crores**, highlighting the vastly different magnitudes of financial responsibility across ministries.
@@ -99,6 +108,8 @@ While important, foundational social sectors like Agriculture, Rural Development
 -----
 
 ### 5. Budget Share of Top 10 Ministries (FY 2022-23)
+
+![alt text](./graphs/css_top_10_ministries_budget_share_DONUT_CHART.png)
 
 <strong>Key Points</strong><br>
 - The largest budget shares are held by Department of Food and Public Distribution (21.0%) and Ministry of Road Transport and Highways (20.2%), together covering more than 41% of the budget.
