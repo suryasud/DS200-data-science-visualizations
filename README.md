@@ -110,6 +110,11 @@ While important, foundational social sectors like Agriculture, Rural Development
 - Ministries with more specialized or less broad-reaching mandates like Micro, Small and Medium Enterprises, Labour and Employment, and Health/Family Welfare receive comparatively minor shares, possibly indicating less budgetary emphasis.
 - The presence of relatively balanced but smaller allocations to social and industrial sectors may reflect a diversified budget approach, but with dominant focus on food security, transportation, and defense spending.
 
+-----
+
+#### Citations
+- Data from <a href="https://www.data.gov.in/resource/central-sector-schemes-2020-2021-2020-21-2022-23">data.gov.in/resource/</a> <br>
+- Some of the content has been revised by LLM tools such as Gemini, ChatGPT.
 
 
 
